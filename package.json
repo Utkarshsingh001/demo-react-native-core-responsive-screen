@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.3",
+    "react-native-core-responsive-screen": "^1.1.0",
+    "react-native-orientation-locker": "^1.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
